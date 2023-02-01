@@ -1,0 +1,45 @@
+
+h1,h2,h3,h4,h5{
+    font-family: 'EB Garamond', serif;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color: #707070;
+}
+.main-btn{
+    background-color: #B68C5A;
+    color: white;
+    
+}
+
+.banner{
+    background-image:url("../images/Rectangle\ 5.png"),url("../images/banner1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.legal-img{
+    width: 70px;
+    height: 70px;
+}
+.contact-img{
+    width: 40px;
+    height: 40px;
+}
+.testimonial{
+    background-image:url("../images/Rectangle\ 7.png"),url("../images/banner1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.accordion-item, .accordion-button {
+    background-color: #F3F3F3 !important; 
+    color: black !important;
+}
+.accordion-button{
+    font-weight: 700;
+    font-family: 'EB Garamond', serif;
+}
+
+
+
